@@ -1,0 +1,15 @@
+#Maven build files
+/target/
+/log/
+
+#Eclipse files
+*.launch
+.buildpath
+.classpath
+.cproject
+.factorypath
+.project
+/.settings/
+/bin/
+src/.metadata/
+
